@@ -448,9 +448,11 @@ section.layer>nav {
     color: white;
     margin-bottom: 10px;
 }
-.p-top-20{
+
+.p-top-20 {
     padding-top: 20px;
 }
+
 .page4 {
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
@@ -509,10 +511,10 @@ section.layer>nav {
 
 .cardBox {
     border-radius: 100px;
-        padding: 20px;
-        width: 100%;
-        background: #2C49FEBD;
-    
+    padding: 20px;
+    width: 100%;
+    background: #2C49FEBD;
+
 }
 
 .learn-more {
@@ -522,14 +524,14 @@ section.layer>nav {
     line-height: 24px;
     text-align: left;
     color: #000000;
-    
+
 
 }
 
 .box1 {
     width: 100%;
     padding: 12px 12px;
-   
+
 }
 
 .box1:hover {
@@ -563,7 +565,7 @@ section.layer>nav {
     font-weight: 400;
     line-height: 24px;
     text-align: left;
-   
+
     color: #000000B2;
     margin-bottom: 24px;
 }
@@ -899,10 +901,12 @@ section.layer>nav {
         padding-left: 12px;
         padding-right: 12px;
     }
-    .event{
+
+    .event {
         font-size: 36px;
     }
-    .heading{
+
+    .heading {
         font-size: 64px;
     }
 }
